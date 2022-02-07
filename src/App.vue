@@ -1,7 +1,7 @@
 <template>
     <nav>
         <h3>Vue 3 + Apex Charts</h3>
-        <a href="#">Blog</a>
+        <a href="https://www.msantelices.com/blog/visualizacion-datos-apex-charts-javascript">Blog</a>
     </nav>
     <main>
         <div class="col">
